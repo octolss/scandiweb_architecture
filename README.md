@@ -22,7 +22,7 @@ Galvenais projekta mērķis ir kalpot par paraugu dokumentācijas izveidei. Šis
 
 1. **Frontend**:
    - **Apraksts**: Lietotāja saskarne, kas nodrošina mijiedarbību ar sistēmu.
-   - **Tehnoloģijas**: HTML, CSS, JavaScript (Reactю.js)
+   - **Tehnoloģijas**: HTML, CSS, JavaScript (React.js)
    - **Funkcijas**: Nodrošina galvenās funkcijas, piemēram, navigāciju, datu attēlošanu, kā arī piekļuvi galvenajām sistēmas funkcionalitātēm.
 
 2. **Backend**:
